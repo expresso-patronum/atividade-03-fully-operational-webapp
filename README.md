@@ -10,7 +10,7 @@ Classroom link: <https://classroom.github.com/a/5eWTsaJT>
 
 - HTML, CSS e JS separados e linkados, conforme modelo;
 - Deve ter o ESLint habilitado (`npm install` e a extensão _ESLint_ no VSCode);
-- Não deve apresentar **errors** do ESLint, desconta `0.2` por tipo;
+- Não deve apresentar **errors** do ESLint, desconta `0.2` por tipo de erro;
 - Os _warnings_ (sublinhados amarelos) não são descontados;
 - Os Casos de Teste não podem ser alterados. Se um erro no teste for encontrado, informe o professor via Slack preferencialmente no canal [_#main_](https://dbo-2019.slack.com/messages/CG25HN533/);
 
