@@ -1,4 +1,4 @@
-# AVA#03: Full Operational Webapp
+# AVA#03: Fully Operational Webapp
 
 Prazo: 2019-04-21 Peso: 1.0 pt
 
@@ -16,7 +16,7 @@ Classroom link: <https://classroom.github.com/a/5eWTsaJT>
 
 ## Especificação
 
-Criar um _webapp_ para fazer acrósticos. Para isso, terá um espaço para entrar com as palavras que serão incluídas em um "banco" de palavras. As palavras do banco são mostradas na página. Oferecer uma espaço para entrada da palavra para gerar o acróstico. Clicando no botão _gerar_ o _app_ deve combinar a palavra com as presentes no banco e apresentar o acróstico na tabela no fim do documento.
+Criar um _webapp_ completa para fazer acrósticos. Para isso, terá um espaço para entrar com as palavras que serão incluídas em um "banco" de palavras. As palavras do banco são mostradas na página. Oferecer uma espaço para entrada da palavra para gerar o acróstico. Clicando no botão _gerar_ o _app_ deve combinar a palavra com as presentes no banco e apresentar o acróstico na tabela no fim do documento.
 
 Exemplo:
 
