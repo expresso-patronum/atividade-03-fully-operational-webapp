@@ -1,10 +1,10 @@
 # AVA#03: Full Operational Webapp
 
-Prazo: 2019-04-22 Peso: 1.0 pt
+Prazo: 2019-04-21 Peso: 1.0 pt
 
 _Permission granted to burn the midnight oil._
 
-Classroom link: <https://classroom.github.com/a/?>
+Classroom link: <https://classroom.github.com/a/5eWTsaJT>
 
 ## Regras & Restrições
 
